@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name micropanto)(type Legacy)(uri ${KIPRJMOD}/micropanto.lib)(options "")(descr ""))
+)
